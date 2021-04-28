@@ -1,0 +1,3 @@
+Database.update([SELECT id from Certification_Held__c], false);
+
+SELECT id, cert_held_dup_key__c FROM Certification_Held__c

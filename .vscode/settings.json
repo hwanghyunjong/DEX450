@@ -1,0 +1,6 @@
+{
+    "salesforcedx-vscode-core.retrieve-test-code-coverage": true,
+    "salesforcedx-vscode-core.push-or-deploy-on-save.enabled": true,
+    "salesforcedx-vscode-core.enable-sobject-refresh-on-startup": true,
+    "salesforcedx-vscode-apex.java.home": "C:\\Program Files\\AdoptOpenJDK\\jdk-11.0.10.9-hotspot"
+}
